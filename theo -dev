@@ -1,0 +1,26 @@
+In detail explain the DevOps Lifecycle or various stages of DevOps life cycle and also 
+mention tools used in each stage
+  lifecycle: dev, integration, testing, monitoring, feedback, deployment, operations
+  phases: continos dev, integration, testing, deployent, monitoing
+  git,svn, cvs, / jenkins, travis / jenkins, junit, selenium testNG / config mngmnt: chef,puppet containerization: docker, vagrant / splunk, nagios, new relic
+
+What is DevOps? Explain the Roles, Responsibilities and Skills of a DevOps Engineer.
+Compare and contrast between DevOps and Agile Methodology.
+  combination of cultural philosophies, practices, and tools which collaborate  dev and it operations to 
+  make s/w development ad production in an automated and repeatable way to increase the org speed to deliver sw app and sevices
+  
+  roles: devops evangelist-implementing devops, release manager-new feature and post release prof=duct stability , automation expert- acheiving automation and orchestrationof tools  
+  sw devloper/tester-devlops the code and tests it , quality assurance- ensures qulatiy confirms to its requirements, security engg.- monitring products sec and health
+  
+  responsibilities: 
+  building and Setting up tools and required infrastructure
+  Defining and setting development, test, release, update, and support processes for DevOps operation
+  Have the technical skill to review, verify, and validate the software code developed in the project.
+  Troubleshooting techniques and fixing the code bugs
+  Monitoring the processes during the entire lifecycle for its adherence and updating or creating new processes for improvement and minimizing the wastage
+  Encouraging and building automated processes wherever possible
+  Identifying and deploying cybersecurity measures by continuously performing vulnerability assessment and risk management
+  Incidence management and root cause analysis
+  Coordination and communication within the team and with customers
+  Selecting and deploying appropriate CI/CD tools
+  Strive for continuous improvement and build continuous integration, continuous development, and constant deployment pipeline (CI/CD Pipeline)
