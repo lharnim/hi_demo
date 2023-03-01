@@ -1,0 +1,45 @@
+Explain all the Core values and Principles of Agile Manifesto.
+  Individuals and interactions over processes and tools
+  Working software over comprehensive documentation
+  Customer collaboration over contract negotiation
+  Responding to change over following a plan
+  Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.
+  Welcome changing requirements, even late in development. Agile processes harness change for the customer's competitive advantage.
+  Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale.
+  Business people and developers must work together daily throughout the project.
+  Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done.
+  The most efficient and effective method of conveying information to and within a development team is face-to-face conversation.
+  Working software is the primary measure of progress.
+  Agile processes promote sustainable development. The sponsors, developers, and users should be able to maintain a constant pace indefinitely.
+  Continuous attention to technical excellence and good design enhances agility.
+  Simplicity--the art of maximizing the amount of work not done--is essential.
+  The best architectures, requirements, and designs emerge from self-organizing teams.
+  At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly.
+
+What is Agile Methodology? Why do we need Agile methodology?
+  agile is a mind-set, a philosophy, more like a way of thinking, team thinking, and a value creation while developing a product
+  to overcome the drawbacks of waterfall model we use agile meth..
+  TOO time consuming.one stage after the other.
+  suitable for models that have a stable requirements
+  working software is delivered inly ag=fter the completion of the entire project
+  very difficult to got =back to the previos stage and make chnages
+  
+Agile Model Vs Waterfall Model.
+
+What is extreme programming(XP), Explain its good Practices.
+  Extreme Programming (XP) is an agile software development framework that aims to produce higher quality software, 
+  and higher quality of life for the development team. XP is the most specific of the agile frameworks regarding appropriate 
+  engineering practices for software development.
+  The Planning Game
+  Small Releases
+  Metaphor
+  Simple Design
+  Testing
+  Refactoring
+  Pair Programming
+  Collective Ownership
+  Continuous Integration
+  40-hour week
+  On-site Customer
+  Coding Standard
+ 
