@@ -1,0 +1,14 @@
+init
+status
+add .
+commit -m " "
+git -a -m commit
+log
+branch <branch name>
+checkout <branch name>
+merge branch_name
+branch -m new_name
+pulling:   remote add origin "link"
+            pull origin main
+git push origin master
+
