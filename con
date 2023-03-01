@@ -1,0 +1,21 @@
+two branches -h1 h2
+checkout b1 //make cahnges
+come back to master and merge h1
+chnage in h2 and merge h2
+add commit
+merge branch
+conflict arises
+mergetool
+esc :wq
+done
+
+init
+branch -m main
+remote add origin " "
+pull origin main
+branch b1
+checkout b1
+cat file.txt
+add .
+commit
+push origin b1
